@@ -1,0 +1,3 @@
+#################akictf####################
+unzip directories.zip
+hexeditor .DS_Store

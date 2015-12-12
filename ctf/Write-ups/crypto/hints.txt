@@ -1,0 +1,2 @@
+openssl enc -d -bf -in key.bf -out key
+gpg -d flag.txt.gpg > flag.txt
