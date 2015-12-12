@@ -63,6 +63,10 @@ echo "Volatility Installed"
 sleep 3
 apt-get install ophcrack -y
 echo "Ophcrack Installed"
+sleep 3
+apt-get install pngmeta -y
+echo "Pngmeta Installed"
+sleep 3
 clear sct
 echo "Ctf Tools READY!"
 sleep 3
