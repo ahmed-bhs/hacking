@@ -77,5 +77,6 @@ sleep 3
 pip install github3.py
 pip install pwntools
 pip install click
+pip install scapy
 clear sct
 echo "Python Configured"
