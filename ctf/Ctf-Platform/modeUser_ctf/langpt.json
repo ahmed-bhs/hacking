@@ -1,0 +1,50 @@
+{
+    "portugues": {
+        "frame": {
+            "title": "RTFM - CTF",
+            "toggle": "Toggle navigation",
+            "login": "Entrar",
+            "register": "Registrar",
+            "logged_in": "Logado como",
+            "logout": "Sair"
+        },
+        "main": {
+            "title": "RTFM - CTF PLATAFORMA",
+            "text": "Plataforma de treino do time Red Team Freakin' Maniacs, time Brasileiro [<Ø>] de CTF afiliado ao CTF-Br.org."
+        },
+        "about": {
+            "title": "Sobre",
+            "news": "News",
+            "news_text": "News go here",
+            "rules": "Rules",
+            "rules_text": "Rules go here"
+        },
+        "tasks": {
+            "title": "Desafios"
+        },
+        "task": {
+            "description": "Description",
+            "attachment": "Anexo",
+            "submit": "Enviar",
+            "success": "Flag Correta!",
+            "failure": "Flag Incorreta!",
+            "solution_format": "resolvido por %d",
+            "no_description": "(none)",
+            "placeholder": "flag{insira_a_flag_aqui}"
+        },
+        "scoreboard": {
+            "title": "Scoreboard",
+            "player": "Player",
+            "score": "Score"
+        },
+        "error": {
+            "title": "Error",
+            "unknown": "Error Desconhecido",
+            "login_required": "Voce precisa estar logado para ver essa pagina",
+            "invalid_credentials": "Usuario ou senha invalido.",
+            "already_registered": "Este usuario ja esta registrado",
+            "empty_user": "Empty username is not allowed",
+            "task_not_found": "TBD"
+        }
+    }
+}

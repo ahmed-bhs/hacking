@@ -1,13 +1,13 @@
 {
-    "secret_key": "v0ld3m0rt313373",
+    "secret_key": "rtfm1337",
     
     "host": "0.0.0.0",
     "port": 8080,
     
     "db": "sqlite:///ctf.db",
     
-    "language_file": "lang.json",
-    "language": "english",
+    "language_file": "langpt.json",
+    "language": "portugues",
 
     "debug": false
 }
