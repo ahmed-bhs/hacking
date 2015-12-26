@@ -76,11 +76,11 @@
         {
             "id": 7, 
             "row": 0,
-            "name": "Ucucuga", 
-            "score": "100",
-            "flag": "flag{ucucuga}",
-            "desc": "The flag is ucucuga, with the flag tag and brackets",
-            "file": "stego100.zip"
+            "name": "Snowden", 
+            "score": "20",
+            "flag": "RTFM{FUCKOFFNSA}",
+            "desc": "Snowden tem algo a nos dizer, encontre a flag.",
+            "file": "Snowden.mp3"
         }
     ]}
 ]}
