@@ -73,6 +73,12 @@ sleep 2
 apt-get install reaver
 echo "Reaver Installed"
 sleep 2
+apt-get install squashfs-tools
+echo "Squashfs Installed"
+sleep 2
+apt-get install sharutils
+echo "Sharutils Installed"
+sleep 2
 clear sct
 echo "Ctf Tools READY!"
 sleep 2
