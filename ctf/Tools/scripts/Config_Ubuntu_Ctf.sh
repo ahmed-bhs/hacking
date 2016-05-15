@@ -19,7 +19,7 @@ echo "gimp installed"
 apt-get install git -y
 sleep 2
 echo "git installed"
-apt-get install asciinema
+apt-get install asciinema -y
 echo "Asciinema Installed"
 clear sct
 echo "Install Basics OK!"
@@ -67,16 +67,16 @@ sleep 2
 apt-get install pngmeta -y
 echo "Pngmeta Installed"
 sleep 2
-apt-get install aircrack-ng
+apt-get install aircrack-ng -y
 echo "Aircrack Installed"
 sleep 2
-apt-get install reaver
+apt-get install reaver -y
 echo "Reaver Installed"
 sleep 2
-apt-get install squashfs-tools
+apt-get install squashfs-tools -y
 echo "Squashfs Installed"
 sleep 2
-apt-get install sharutils
+apt-get install sharutils -y
 echo "Sharutils Installed"
 sleep 2
 clear sct
